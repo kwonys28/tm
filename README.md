@@ -1,6 +1,6 @@
 # Teachable Machine Image Project
 ---
-#### 1204 권용석
+#### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
 ## 주제: BTS 닮은 얼굴 찾기
 
 
