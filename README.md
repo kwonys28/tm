@@ -1,9 +1,8 @@
-# teachable machine image project
+# Teachable Machine Image Project
 ---
 #### 1204 권용석
-## 주제: bts 닮은 얼굴 찾기
+## 주제: BTS 닮은 얼굴 찾기
 
-~~~ 내가 한 이유
 
 나는 오늘 여기서 "it 아카데미" 수업을 듣고 있다.
 
