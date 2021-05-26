@@ -10,6 +10,7 @@
 ### 주제:BTS 닮은 얼굴 찾기
 #### 1. 이미지 다운로드
 크롬의 확장프로그램(download all image)다운 <https://chrome.google.com/webstore/search/download%20all%20images?hl=ko&_category=extensions>
+
 BTS 맴버 3명 정도를 꼽아 크롬 확장 프로그램을 이용하여 각각 150장 정도 다운로드 한다.
 
 ---
