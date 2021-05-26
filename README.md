@@ -1,4 +1,4 @@
-# Teachable Machine Image Project                 작성중...
+# Teachable Machine Image Project
 
 ##### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
 ---
