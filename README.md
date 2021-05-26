@@ -1,7 +1,8 @@
 # Teachable Machine Image Project
 ---
-#### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
+##### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
 ## 주제: BTS 닮은 얼굴 찾기
+### 1차시 내용
 
 
 나는 오늘 여기서 "it 아카데미" 수업을 듣고 있다.
