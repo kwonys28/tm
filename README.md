@@ -1,11 +1,11 @@
 # Teachable Machine Image Project                 작성중...
 ---
 ##### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
-
+---
 ## 2차시내용   작성중... 
 
 
-
+---
 ## 1차시 내용
 ### 주제:BTS 닮은 얼굴 찾기
 #### 1. 이미지 다운로드
