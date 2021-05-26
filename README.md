@@ -1,4 +1,4 @@
-## Teachable Machine Image Project Git Hostings
+## it 아카데미 활동 소감
 #This is an '권용석' '(1204)'
 
 여기는 경일고등학교이다.
