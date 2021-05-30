@@ -23,6 +23,13 @@ teachable machine 앱 접속하기
 
  https://teachablemachine.withgoogle.com/train/image
  
+ ---
+ ## **느낀점**
+ 혼자서 프로그램을 만들게 되었는데 한번 만들어 보아서 쉽게 만들 수 있었다.
+ 
+ 오히려 마크다운 작성하는데 좀 더 애를 먹었다.
+ 
+ 
 ---
 ## 1차시 내용
 ### 주제:**BTS 닮은 얼굴 찾기**
