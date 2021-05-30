@@ -7,7 +7,7 @@
 
 ---
 ## 1차시 내용
-### 주제:BTS 닮은 얼굴 찾기
+### 주제:**BTS 닮은 얼굴 찾기**
 #### 1. 이미지 다운로드
 크롬의 확장프로그램(download all image)다운 -<https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm?hl=ko>
 
