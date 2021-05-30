@@ -20,6 +20,8 @@ teachable machine 앱 접속하기
 인공지능을 학습시킨다.
 
 얼굴사진을 넣고 제대로 작동하는지 확인한다.
+
+ https://teachablemachine.withgoogle.com/train/image
  
 ---
 ## 1차시 내용
@@ -40,6 +42,8 @@ teachable machine 앱 접속하기
 인공지능을 학습시킨다.
 
 얼굴사진을 넣고 제대로 작동하는지 확인한다.
+
+https://teachablemachine.withgoogle.com/models/4lU4aMZWr/
 
 ---
 ## **느낀점**
