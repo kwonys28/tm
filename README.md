@@ -2,19 +2,20 @@
 
 ##### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
 ---
-## 2차시내용   작성중... 
+## 2차시내용
+### 주제:**
 
 
 ---
 ## 1차시 내용
 ### 주제:**BTS 닮은 얼굴 찾기**
-#### 1. 이미지 다운로드
+>#### 1. 이미지 다운로드
 크롬의 확장프로그램(download all image)다운 -<https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm?hl=ko>
 
 BTS 맴버 3명 정도를 꼽아 크롬 확장 프로그램을 이용하여 각각 150장 정도 다운로드 한다.
 
 ---
-#### 2. 이미지 삽입하기
+>>#### 2. 이미지 삽입하기
 teachable machine 앱 접속하기
 
 여기서 나는 인공지능의작동 방식을 배우고 이를 간단하게 채험해보는 시간을 가졌다. 
