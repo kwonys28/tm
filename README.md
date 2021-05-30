@@ -3,7 +3,7 @@
 ##### 1204 권용석 <https://github.com/kwonys28/tm/settings/pages>
 ---
 ## 2차시내용
-### 주제:**동물 닮은 얼굴 찾기**
+### 주제:**동물 닮은 얼굴 찾기** :hearrt:
 >#### 1. 이미지 다운로드
 크롬의 확장프로그램(download all image)다운 -<https://chrome.google.com/webstore/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm?hl=ko>
 
