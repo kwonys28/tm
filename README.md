@@ -21,7 +21,7 @@ teachable machine 앱 접속하기
 
 얼굴사진을 넣고 제대로 작동하는지 확인한다.
 
- https://teachablemachine.withgoogle.com/train/image
+ https://teachablemachine.withgoogle.com/models/m-Jin193n/
  
  ---
  ## **느낀점**
